@@ -1,5 +1,6 @@
 # Hadoop-searchIPaddresses
-A short assignment of using Hadoop streaming to filter and analyze log files of users visiting a website                
+A short assignment of using Hadoop streaming to filter and analyze log files of users visiting a website      
+A detailed explanation of my code is given in the pdf file "assignment1_report_adigode"
 ## The goal to perform the following tasks for the problem statement mentioned below:                           
 1. Set up a cluster with Hadoop Distributed File System and run examples.
 2. On top of HDFS, set up the cluster with MapReduce programming framework.    
